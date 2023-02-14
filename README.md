@@ -1,0 +1,1 @@
+This repo contains custom tasks for ADO pipelines. These custom tasks are created using Powershell.
